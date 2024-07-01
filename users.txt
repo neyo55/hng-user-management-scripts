@@ -1,0 +1,14 @@
+adebola;developers
+tobiloba;backend
+dhebbie;developers
+ayodeji;sudo,developers
+balogun;admin
+niyi;sudo,developers,admin
+rasheed;frontend
+bayo;frontend
+shola;account
+tope;account
+rasak;backend
+adedeji;developers
+musty;technical
+
